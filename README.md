@@ -1,4 +1,7 @@
-# hard-rock-solution
+# Lyrics Guru
+
+This is an open API practice project. User can search a song lyric by searching it's name. As a result user can see the song's lyric. It's a vanilla JavaScript project. 
+
 ### Search Song
 api link: https://api.lyrics.ovh/suggest/:searchText
 
